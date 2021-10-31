@@ -6,13 +6,13 @@ Coronavirus pandemic impacted the world to a great extent. Food delivery systems
 The project intends to add a rating system to this model in which end-user can assign a rating to the restaurant, delivery person. There will be a facility to add the picture for the meal and some written feedback as well. This will provide insights into the nutrition and eating habits of those who order from campus. 
 
 # Business Rules:
-Valid type for end-users include: student, faculty, and staff
-Only students can be drivers
-A person can order food from one to many times
-An individual delivery is tied to one and only one person for the order. 
-The order is for one and only one restaurant
-A restaurant will have one to many menu items.
-An order can have at most one rating
+1. Valid type for end-users include: student, faculty, and staff
+2. Only students can be drivers
+3. A person can order food from one to many times
+4. An individual delivery is tied to one and only one person for the order. 
+5. The order is for one and only one restaurant
+6. A restaurant will have one to many menu items.
+7. An order can have at most one rating
 
 
 Use Case for Ratings System
