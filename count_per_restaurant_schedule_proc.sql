@@ -1,3 +1,6 @@
+-- Purpose : This procedure intends to find out count of restaurants available during input schedule
+-- Total Restaurants field is printed to verify the results by summation of restaurants available in each schedule. 
+
 USE campus_eats_fall2020;
 DROP PROCEDURE IF EXISTS count_per_restaurant_schedule;
 DELIMITER //
