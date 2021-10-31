@@ -7,7 +7,7 @@ DELIMITER //
 CREATE PROCEDURE count_per_restaurant_schedule (IN schedule1 VARCHAR(50), IN schedule2 VARCHAR(50), IN schedule3 VARCHAR(50), OUT count_schedule1 INT, OUT count_schedule2 INT, OUT count_schedule3 INT, OUT total_restaurants INT)
 BEGIN
     SET total_restaurants = 0;
-	SET count_schedule1 = 0;
+    SET count_schedule1 = 0;
     SET count_schedule2 = 0;
     SET count_schedule3 = 0;
     SELECT COUNT(*) INTO total_restaurants FROM restaurant;
