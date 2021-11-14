@@ -21,9 +21,11 @@ Use Case for Ratings System
 EERD for original campus eats DB (v1):
 https://github.com/cruzhector/DBS-Project/blob/master/EERD%20Diagrams/EERD_V1.png
 
-# Data Dictionary
+EERD for edited campus eats DB (v2):
+https://github.com/cruzhector/DBS-Project/blob/master/EERD%20Diagrams/Final_EERD_V2.pdf
 
-Queries
+# Data Dictionary
+https://github.com/cruzhector/DBS-Project/blob/master/data_dictionary/data%20dictionary.pdf
 
 # Stored Procedures and Functions
 Please refer https://github.com/cruzhector/DBS-Project/tree/master/stored_procedures
