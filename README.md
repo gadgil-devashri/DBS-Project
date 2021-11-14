@@ -21,7 +21,7 @@ Use Case for Ratings System
 EERD for original campus eats DB (v1):
 https://github.com/cruzhector/DBS-Project/blob/master/EERD%20Diagrams/EERD_V1.png
 
-Data Dictionary:
+# Data Dictionary
 
 Queries
 
