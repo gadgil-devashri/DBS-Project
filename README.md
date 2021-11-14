@@ -17,7 +17,9 @@ The project intends to add a rating system to this model in which end-user can a
 
 Use Case for Ratings System
 
-EERD: 
+# EERD
+EERD for original campus eats DB (v1):
+https://github.com/cruzhector/DBS-Project/blob/master/EERD%20Diagrams/EERD_V1.png
 
 Data Dictionary:
 
