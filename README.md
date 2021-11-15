@@ -27,6 +27,9 @@ https://github.com/cruzhector/DBS-Project/blob/master/EERD%20Diagrams/Final_EERD
 # Data Dictionary
 https://github.com/cruzhector/DBS-Project/blob/master/data_dictionary/data%20dictionary.pdf
 
+# SQL Codes
+Addition of a more extensive ordering system for the restaurants:
+https://github.com/cruzhector/DBS-Project/blob/master/delivery-2/newtables.sql
 # Stored Procedures and Functions
 Please refer https://github.com/cruzhector/DBS-Project/tree/master/stored_procedures
 
