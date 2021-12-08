@@ -23,4 +23,4 @@ BEGIN
 END//
 DELIMITER ; 
 
-select driver_rating_func(rating) from driver;
+select driver_id, driver_rating_func(rating) from driver;
