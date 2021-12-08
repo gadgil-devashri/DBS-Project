@@ -11,7 +11,7 @@ BEGIN
     IF rating = 1 THEN
 		SET rating_text = "Bad driver";
 	ELSEIF rating = 2 THEN
-		SET rating_text = "Average driver";
+		SET rating_text = "Below Average driver";
 	ELSEIF rating = 3 THEN
 		SET rating_text = "Moderate driver";
 	ELSEIF rating = 4 THEN
