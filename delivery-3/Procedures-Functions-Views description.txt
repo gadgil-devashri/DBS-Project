@@ -8,19 +8,14 @@ STORED PROCEDURE C - Displays total price of the orders by each customer (distin
 STORED PROCEDURE D - Displays a particular customer’s rating for a restaurant
 
 -------------------------FUNCTIONS-------------------------
-# These functions all contribute to 
-
-update_orders() - This procedure updates order table with order_dt_tm
-
-insert_order_rating() - This procedure inserts data into order_rating table
-
-update_orders_status() - This procedure updates order table with order status ids
-
-insert_order_items() - This procedure inserts data into newly created order_items table
+Function #1 - Assigns a label to each driver_id based on their delivery rating. Label options are Bad, Below Average, Moderate, Good, Expert based on the 1 to 5 rating system
 
 -------------------------VIEWS-------------------------
 VIEW #1 - Display the total price of the orders by each customer
 
 VIEW #2 - Display the no_of_orders per customer
 
+-------------------------INDEXES-------------------------
+order_id_idx IN payment table
+customer_id_idx IN payment table
 
