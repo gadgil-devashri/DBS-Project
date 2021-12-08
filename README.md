@@ -1,5 +1,10 @@
 # DBS-Project
 Fall 2021 - ITCS 6160 Database Systems project
+# Members :
+1. Devashri Gadgil
+2. Ramakrishna Kolipaka
+3. Madison Melton
+4. Mohammed Puthiyottil
 
 # Project Introduction :
 Coronavirus pandemic impacted the world to a great extent. Food delivery systems have become a crucial part of our daily lives. For universities such as UNCC, it is important to keep track of visitors and authorized personals who are on campus each day. This helps to reduce human contact and maintain social distancing. 	Students who act as food delivery agents can ensure that entry to unauthorized is strictly prohibited. They can earn extra bucks while studying on campus. CampusEats database proposes this model where students enroll to be food delivery agents. University staff and students are part of the database. Anyone can place an order at restaurants available near campus which are part of the database. Those who wish to place the order have to create an account and provide necessary details such as an address, email, and phone number. There are specific spots on campus where meals can be delivered. A list of all such locations is maintained in the database. Any person registered on the app can also be a driver. The driver needs to have a valid license and date of hire. A flat fee of $5 would be charged for each food delivery. 
@@ -30,13 +35,20 @@ https://github.com/cruzhector/DBS-Project/blob/master/data_dictionary/data%20dic
 # SQL Codes
 Addition of a more extensive ordering system for the restaurants:
 https://github.com/cruzhector/DBS-Project/blob/master/delivery-2/newtables.sql
+
 # Stored Procedures and Functions
-Please refer https://github.com/cruzhector/DBS-Project/tree/master/stored_procedures
+https://github.com/cruzhector/DBS-Project/tree/master/stored_procedures
+
+# Deliverable Two Resources
+https://github.com/cruzhector/DBS-Project/tree/master/delivery-2
+
+# Deliverable Three Resources 
+https://github.com/cruzhector/DBS-Project/tree/master/delivery-3
 
 Indexes
 
 Future Work
+The system can be extended to offer discounts to frequent customers, customers who provide constant feedback etc. 
 
-(include folders for SQL code, pictures that are included in the repository, others as necessary)
 
 
