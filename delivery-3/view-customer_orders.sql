@@ -1,3 +1,4 @@
+-- View 1 : Display the total price of the orders by each customer
 USE `campus_eats_fall2020`;
 CREATE  OR REPLACE VIEW `customer_orders` AS
 SELECT DISTINCT person_id as customer_id,
