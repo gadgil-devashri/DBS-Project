@@ -17,8 +17,7 @@ BEGIN
 		where order_id = x;
 		
         UPDATE `order`
-		SET order_dt_tm = DATE_ADD(`order_dt_tm` , INTERVAL x DAY),
-        order_status_id = x mod 6
+		SET order_dt_tm = DATE_ADD(`order_dt_tm` , INTERVAL x DAY)
         where order_id = x;
 		SET x = x + 1;
 	END LOOP;
