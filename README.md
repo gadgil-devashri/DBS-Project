@@ -1,10 +1,10 @@
 # DBS-Project
 Fall 2021 - ITCS 6160 Database Systems project
-Members :
-Devashri Gadgil
-Ramakrishna Kolipaka
-Madison Melton
-Mohammed Puthiyottil
+# Members :
+1. Devashri Gadgil
+2. Ramakrishna Kolipaka
+3. Madison Melton
+4. Mohammed Puthiyottil
 
 # Project Introduction :
 Coronavirus pandemic impacted the world to a great extent. Food delivery systems have become a crucial part of our daily lives. For universities such as UNCC, it is important to keep track of visitors and authorized personals who are on campus each day. This helps to reduce human contact and maintain social distancing. 	Students who act as food delivery agents can ensure that entry to unauthorized is strictly prohibited. They can earn extra bucks while studying on campus. CampusEats database proposes this model where students enroll to be food delivery agents. University staff and students are part of the database. Anyone can place an order at restaurants available near campus which are part of the database. Those who wish to place the order have to create an account and provide necessary details such as an address, email, and phone number. There are specific spots on campus where meals can be delivered. A list of all such locations is maintained in the database. Any person registered on the app can also be a driver. The driver needs to have a valid license and date of hire. A flat fee of $5 would be charged for each food delivery. 
