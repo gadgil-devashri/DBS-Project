@@ -1,4 +1,4 @@
-# DBS-Project
+# DBS- Term Project
 Fall 2021 - ITCS 6160 Database Systems project
 # Members :
 1. Devashri Gadgil
@@ -19,8 +19,6 @@ The project intends to add a rating system to this model in which end-user can a
 6. A restaurant will have one to many menu items.
 7. An order can have at most one rating
 
-
-Use Case for Ratings System
 
 # EERD
 EERD for original campus eats DB (v1):
@@ -47,7 +45,7 @@ https://github.com/cruzhector/DBS-Project/tree/master/delivery-3
 
 Indexes
 
-Future Work
+# Future Work
 The system can be extended to offer discounts to frequent customers, customers who provide constant feedback etc. 
 
 
